@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Venosa Case Test Suite">
+  <test name="v2020-08-05">
+    <classes>
+
+      <class name="automationTesting.VenosaSRCH"/>
+      <class name="automationTesting.VenosaHCAT"/> 
+      <class name="automationTesting.VenosaVCAT"/>
+      <class name="automationTesting.VenosaVCON"/>
+      <class name="automationTesting.VenosaVPR"/>
+      <class name="automationTesting.VenosaVSHO"/>
+      <class name="automationTesting.VenosaSMAT"/>
+      <class name="automationTesting.VenosaVADD"/>
+      <class name="automationTesting.VenosaVINC"/>
+      <class name="automationTesting.VenosaVSCA"/>
+      <class name="automationTesting.VenosaVWHB"/>
+      <class name="automationTesting.VenosaVSMW"/>
+      <class name="automationTesting.VenosaVGINF"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
